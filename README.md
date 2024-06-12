@@ -1,4 +1,4 @@
 # Music-website
-it is a music website interface
-uses HTML and CSS
-front-end project
+it is a music website front-end project.
+It uses HTML and CSS
+
